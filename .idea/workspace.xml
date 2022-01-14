@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec416e3-97d2-430f-bf28-da9b516981a9" name="Default Changelist" comment="" />
+    <list default="true" id="bec416e3-97d2-430f-bf28-da9b516981a9" name="Default Changelist" comment="the memo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +17,11 @@
     </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../.." />
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/Github_test/test2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="23XVK9ZuL7qQqBd06sop4VNeVta" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,13 +30,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="C:/Github_test/test2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,17 +48,6 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="go build test10" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="test10" />
       <working_directory value="$PROJECT_DIR$" />
@@ -80,12 +75,24 @@
       <workItem from="1641913773081" duration="74000" />
       <workItem from="1641913855164" duration="2198000" />
       <workItem from="1641976838205" duration="9000" />
-      <workItem from="1642171533493" duration="1906000" />
+      <workItem from="1642171533493" duration="3453000" />
     </task>
+    <task id="LOCAL-00001" summary="the memo">
+      <created>1642177251006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642177251006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the memo" />
+    <option name="LAST_COMMIT_MESSAGE" value="the memo" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -95,34 +102,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1641881302623" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1642176860551">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1642178506405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642176860551" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1641916072179">
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642178506405" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1642178884951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641916072179" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1641916072179">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642178884951" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1642178884951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641916072179" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1641916072179">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642178884951" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1642178884951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641916072179" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1641916072179">
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642178884951" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1642178884951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641916072179" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1642176799310">
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642178884951" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1642178705643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642176799310" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1642176935439">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642178705643" />
+    <state x="636" y="266" key="Vcs.Push.Dialog.v2" timestamp="1642178823589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1642176935439" />
+    <state x="636" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1642178823589" />
     <state x="334" y="152" key="new project wizard" timestamp="1641880412509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
